@@ -2,7 +2,6 @@ s3://resume-analyzer-container/cloudwatch-logs-export/
 
 {
   "resume_text": "EDUCATIONAL QUALIFICATIONS\nSI No.\nDegree /\nUniversity / Board\nCollege / School\nPassing Year\nPercentage\nStd.\nScore\n1\nMaster of\nPuneUniversity\nSinhgadCollegeofEngineering\n2019\n80,01%\nEngineering\nThe AssamKaziranga\n2\nB. Tech\nTheAssamKazirangaUniversity\n2016\n81.11%\nUniversity\n(ECE)\n3\nClass XII\nC.B.S.E\nVivekanandaKendraVidyalaya\n2012\n70.01%\n4\nClass X\nSEBA\nSt.Stephen'sHighSchool\n2010\n78.05%\nAWARDS AND ACHIEVEMENTS\nReceived 'Monetary Award' for outstanding performance in multiple projects at BOSCH within 6 months of joining.\nReceived 'On Spot Delivery' certificate from TCS for remarkable contribution in business growth as a new employee.\n'Top Sales Executive' for consistent high performance at Maharashtra Institute of Technology.\nWon 'Women's Chess Championship' at TCS-Jaguar & Land Rover tournament.\nWon 'Women of the Match' in women's cricket at TCS-Jaguar & Land Rover tournament.\nRecognized as a Semi-Finalist in Table Tennis (TT) and Badminton Mixed, representing the department with pride and\nskill.\nPERSONAL DETAILS\nFather's Name\n: Ranjan Paul\nSpouse's Name\n: Gaurav Ghosh\nDateofBirth\n: 24thJanuary, 1994\nSex\n: Female\nNationality\n: Indian\nMaritalStatus\n: Married\nLanguagesKnow\n: English,Hindi,Bengali,Assamese\nPassport\nAvailable\nEmirates ID\nAvailable\nDECLARATION\nI hereby declare that the information given above by me is true and from best of my knowledge.\nDate:\nPlace: Dubai, UAE\nPranamika Paul\nPage 4 of 4\n",
-
   "skills": [
     {
       "Score": 0.6805006861686707,
@@ -327,7 +326,6 @@ s3://resume-analyzer-container/cloudwatch-logs-export/
       "EndOffset": 1419
     }
   ],
-  
   "feedback": " Here are some suggestions to improve this resume:\n\n1. 
   Lead with a resume summary instead of just listing education. 
   Briefly highlight your skills, experience, and achievements relevant to the job.\n\n2.
