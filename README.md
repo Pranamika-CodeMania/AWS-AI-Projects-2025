@@ -219,7 +219,7 @@ Example:- https://your-api-id.execute-api.region.amazonaws.com/resume
 **Pranamika Paul**  
 Cloud | Backend | AWS AI Engineer
 
-🔗 [GitHub Profile](https://github.com/Pranamika-CodeMania/AWS_AI__Powered_Resume_Analyzer)  
+🔗 [GitHub Profile](https://github.com/Pranamika-CodeMania/AWS-AI-Projects-2025/tree/CodeMania/AWS-AI-Resume-Analyzer)  
 📧 Connect on [LinkedIn](https://www.linkedin.com/in/pranamika-paul-holding-valid-emirates-id-087288141/)
 
 
